@@ -32,7 +32,7 @@ Learned about Bootstrap which shows how easy and efficient it is used for stylin
 Learned about charts that can be implemented using javascript.
 
 # Week 12
-Learned how to iimplement RestDB on Javascript. Also learned NoSQL language to implement database on javascript which connects to html.
+Learned how to implement RestDB on Javascript and html. Also learned NoSQL language to implement database on javascript which connects to html.
 Methods such as Get, Post and delete.
 
 # Week 14
